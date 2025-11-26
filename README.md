@@ -87,3 +87,24 @@ Call DuckDuckGo → Get fun fact
 Combine & format answer
 
 Return final output
+
+
+🚀 LangGraph Workflow – Prompt_Langraph.ipynb
+
+This notebook demonstrates how I built a LangGraph workflow to visualize an LLM reasoning chain.
+
+What it includes:
+
+A custom LLM workflow graph built using LangGraph
+
+A clear visual representation of the agent flow
+
+Execution of the graph with a sample prompt
+
+Generated image output for the graph
+
+Graph Output Example:
+![LangGraph Workflow](langraph.png)
+
+Notebook:
+Prompt_Langraph.ipynb
