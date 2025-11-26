@@ -1,4 +1,4 @@
-🌦️ LangChain Intelligent Agent — Weather Search + DuckDuckGo Search
+🌦️ LangChain Intelligent Agent — Weather Search + DuckDuckGo Search & **LANGRAPH** SIMPLE PROMPT LLM FLOW WITH **NODES GRAPHS EDGES**
 
 A simple but powerful ReAct-based agent using LangChain, WeatherStack API, and DuckDuckGo Search
 
